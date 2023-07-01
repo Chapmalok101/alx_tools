@@ -1,1 +1,1 @@
-console.log("ALX")
+echo 'console.log("ALX")

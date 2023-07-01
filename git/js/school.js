@@ -1,1 +1,1 @@
-console.log("School")
+echo 'console.log("School")
